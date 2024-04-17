@@ -63,7 +63,7 @@
 
 ## API Usuario
 
-- La API de usuarios permite gestionar eventos en una base de datos.
+- La API de usuarios permite gestionar usuarios en una base de datos.
 
 ### Registrar un usuario
 
